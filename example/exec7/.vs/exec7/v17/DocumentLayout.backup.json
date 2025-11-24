@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cProgram\\example\\exec7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38957D90-D213-46A6-A3CB-6790EA1C9912}|exec7-7\\exec7-7.vcxproj|E:\\cProgram\\example\\exec7\\exec7-7\\exec7-7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38957D90-D213-46A6-A3CB-6790EA1C9912}|exec7-7\\exec7-7.vcxproj|solutionrelative:exec7-7\\exec7-7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C87346-E75B-438B-90AC-E3DED13C1DA9}|exec7-3\\exec7-3.vcxproj|E:\\cProgram\\example\\exec7\\exec7-3\\exec7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3C87346-E75B-438B-90AC-E3DED13C1DA9}|exec7-3\\exec7-3.vcxproj|solutionrelative:exec7-3\\exec7-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C954E1A5-E89D-4F0C-8C4D-9C48420C2E4C}|exec7-3a\\exec7-3a.vcxproj|E:\\cProgram\\example\\exec7\\exec7-3a\\exec7-3a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C954E1A5-E89D-4F0C-8C4D-9C48420C2E4C}|exec7-3a\\exec7-3a.vcxproj|solutionrelative:exec7-3a\\exec7-3a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009E98DB-E871-4EC1-8857-DAFBCD01CC34}|exec7-4\\exec7-4.vcxproj|E:\\cProgram\\example\\exec7\\exec7-4\\exec7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{009E98DB-E871-4EC1-8857-DAFBCD01CC34}|exec7-4\\exec7-4.vcxproj|solutionrelative:exec7-4\\exec7-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54FECF-577A-4F7B-8DF1-AF91BCB605B9}|exec7-c\\exec7-c.vcxproj|E:\\cProgram\\example\\exec7\\exec7-c\\exec7-3c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB54FECF-577A-4F7B-8DF1-AF91BCB605B9}|exec7-c\\exec7-c.vcxproj|solutionrelative:exec7-c\\exec7-3c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E8EA9C-2120-49C2-A35B-B2686A9D9625}|exec7-3b\\exec7-3b.vcxproj|E:\\cProgram\\example\\exec7\\exec7-3b\\exec7-3b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5E8EA9C-2120-49C2-A35B-B2686A9D9625}|exec7-3b\\exec7-3b.vcxproj|solutionrelative:exec7-3b\\exec7-3b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exec7-7.c",
+              "DocumentMoniker": "E:\\cProgram\\example\\exec7\\exec7-7\\exec7-7.c",
+              "RelativeDocumentMoniker": "exec7-7\\exec7-7.c",
+              "ToolTip": "E:\\cProgram\\example\\exec7\\exec7-7\\exec7-7.c",
+              "RelativeToolTip": "exec7-7\\exec7-7.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T10:15:12.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exec7-4.c",
+              "DocumentMoniker": "E:\\cProgram\\example\\exec7\\exec7-4\\exec7-4.c",
+              "RelativeDocumentMoniker": "exec7-4\\exec7-4.c",
+              "ToolTip": "E:\\cProgram\\example\\exec7\\exec7-4\\exec7-4.c",
+              "RelativeToolTip": "exec7-4\\exec7-4.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T10:10:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exec7-3c.c",
+              "DocumentMoniker": "E:\\cProgram\\example\\exec7\\exec7-c\\exec7-3c.c",
+              "RelativeDocumentMoniker": "exec7-c\\exec7-3c.c",
+              "ToolTip": "E:\\cProgram\\example\\exec7\\exec7-c\\exec7-3c.c",
+              "RelativeToolTip": "exec7-c\\exec7-3c.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T10:09:28.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "exec7-3b.c",
+              "DocumentMoniker": "E:\\cProgram\\example\\exec7\\exec7-3b\\exec7-3b.c",
+              "RelativeDocumentMoniker": "exec7-3b\\exec7-3b.c",
+              "ToolTip": "E:\\cProgram\\example\\exec7\\exec7-3b\\exec7-3b.c",
+              "RelativeToolTip": "exec7-3b\\exec7-3b.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T10:04:36.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exec7-3a.c",
+              "DocumentMoniker": "E:\\cProgram\\example\\exec7\\exec7-3a\\exec7-3a.c",
+              "RelativeDocumentMoniker": "exec7-3a\\exec7-3a.c",
+              "ToolTip": "E:\\cProgram\\example\\exec7\\exec7-3a\\exec7-3a.c",
+              "RelativeToolTip": "exec7-3a\\exec7-3a.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T10:01:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exec7-3.c",
+              "DocumentMoniker": "E:\\cProgram\\example\\exec7\\exec7-3\\exec7-3.c",
+              "RelativeDocumentMoniker": "exec7-3\\exec7-3.c",
+              "ToolTip": "E:\\cProgram\\example\\exec7\\exec7-3\\exec7-3.c",
+              "RelativeToolTip": "exec7-3\\exec7-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T09:48:16.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

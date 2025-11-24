@@ -1,0 +1,3 @@
+﻿  hw7-3a.c
+E:\cProgram\example\hw7\hw7-3a\hw7-3a.c(32,1): warning C4715: 'sum': 不是所有控制路徑都傳回值
+  hw7-3a.vcxproj -> E:\cProgram\example\hw7\x64\Debug\hw7-3a.exe

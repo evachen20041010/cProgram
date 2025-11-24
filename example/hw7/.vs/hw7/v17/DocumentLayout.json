@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cProgram\\example\\hw7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359E5A5E-023E-4D0C-A35B-5C5DDEA05BB9}|hw7-3a\\hw7-3a.vcxproj|E:\\cProgram\\example\\hw7\\hw7-3a\\hw7-3a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{359E5A5E-023E-4D0C-A35B-5C5DDEA05BB9}|hw7-3a\\hw7-3a.vcxproj|solutionrelative:hw7-3a\\hw7-3a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw7-3a.c",
+              "DocumentMoniker": "E:\\cProgram\\example\\hw7\\hw7-3a\\hw7-3a.c",
+              "RelativeDocumentMoniker": "hw7-3a\\hw7-3a.c",
+              "ToolTip": "E:\\cProgram\\example\\hw7\\hw7-3a\\hw7-3a.c",
+              "RelativeToolTip": "hw7-3a\\hw7-3a.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-24T10:45:24.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
