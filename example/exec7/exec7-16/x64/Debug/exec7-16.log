@@ -1,0 +1,3 @@
+﻿  exec7-16.c
+E:\cProgram\example\exec7\exec7-16\exec7-16.c(15,17): warning C4013: 'Sum' 未定義; 假設 extern 傳回整數
+  exec7-16.vcxproj -> E:\cProgram\example\exec7\x64\Debug\exec7-16.exe
