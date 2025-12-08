@@ -1,17 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-void Abc(int[]);
-void Abc(int n) {
-	n = n = 1;
-	printf("In the functionn Abc -- n=%d\n", n);
-}
-
-int main(void)
-{
-	int i = 10;
-	printf("Example : Call by pointer (傳值,主程式中與函數中的參數共用同一個位址\n");
-	printf("Before call Abc function, in the main --- i=%d\n", i);
-	Abc(i);
-	printf("After call Abc function, in the main --- i=%d\n", i);
-	system("pause"); return(0);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ee4f45ebbae7b9917792bf770f8d570b8438431d216ee238fc688b0b96199d3
+size 430

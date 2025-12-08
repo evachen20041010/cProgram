@@ -1,30 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-#include <stdlib.h>
-
-int iPower(int x, int n);
-
-int iPower(int x, int n) {
-	int  count = 0;
-	while (x % n == 0) {
-		x = x / n;
-		count++;
-	}
-	return (x == 1) ? count : 0;
-}
-
-int main(void) {
-	int x;
-	printf("請輸入X\n");
-	scanf("%d", &x);
-	int n;
-	printf("請輸入N\n");
-	scanf("%d", &n);
-	if (iPower(x, n) == 0) {
-		printf("%d 不是 %d 的次方", x, n);
-	}
-	else {
-		printf("%d = %d 的  %d次方", x, n, iPower(x, n));
-
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cff4c115ebe8411e1126f8a997f42f25e63e9a476b3476cb9f2bdb8011c0e55
+size 498

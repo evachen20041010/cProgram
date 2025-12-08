@@ -1,11 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <ProjectOutputs>
-    <ProjectOutput>
-      <FullPath>E:\cProgram\example\exec7\x64\Debug\exec7-3c.exe</FullPath>
-    </ProjectOutput>
-  </ProjectOutputs>
-  <ContentFiles />
-  <SatelliteDlls />
-  <NonRecipeFileRefs />
-</Project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa5be55f7f8694be42341da59f3ec800e340a5319dde6b02f44077bf8ef4c7cc
+size 291

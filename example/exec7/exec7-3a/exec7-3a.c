@@ -1,29 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-#include <stdlib.h>
-
-void sum(int);
-
-int main(void) {
-	int y;
-
-	printf("請輸入一個正整數字：");
-	scanf("%d", &y);
-	sum(y);
-
-	system("pause");
-	return 0;
-}
-
-void sum(int x) {
-	int total = 0;
-	for (int i = 1; i <= x; i++) {
-		total += i;
-		if (i >= x) {
-			printf("%d = ", i);
-			continue;
-		}
-		printf("%d + ", i);
-	}
-	printf("%d\n總和：%d\n", total, total);
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:71ab1f140cc40d3f1c14cb71b53f7a0dfbd0873979af0dedebf06a1a2e4b3382
+size 438
